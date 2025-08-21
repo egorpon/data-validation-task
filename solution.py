@@ -92,20 +92,12 @@ class User(Validationable):
         }
         return [field for field, value in invalid_fields.items() if not value]
 
-#     ### User
-# #### email
-# - must contain `@`
-# - must contain `.`
-# - words should be at least 2 characters long. Minimum valid email: `ab@cd.ef`
-# - no `" "` (spaces) allowed
 
     def is_email_valid(self) -> bool: 
         if re.fullmatch(r'^\w{2,}+@[a-zA-z]{2,}+\.[a-zA-z]{2,}+$',self.email):
             return True
         return False
 
-#### full_name
-# - must be 2 words only, separated by space
 
     def is_full_name_valid(self) -> bool: 
         if re.fullmatch(r'^[a-zA-z]+\s+[a-zA-z]+$',self.full_name):
@@ -118,8 +110,6 @@ class User(Validationable):
             return True
         return False
 
-# #### date_of_birth
-# - any date in the past
 
     def is_date_of_birth_valid(self) -> bool: 
         print(datetime.date.today())
