@@ -1,157 +1,156 @@
 [
-    {
-        "id": 1,
-        "email": "valerabig4len@ukr.net",
-        "full_name": "Valera Zmyshenko",
-        "gender": "male",
-        "date_of_birth": "1975-08-15",
-        "addresses": [
-            {
-                "country": "Ukraine",
-                "city": "Kyiv",
-                "postal_code": "01001"
-            },
-            {
-                "country": "Ukraine",
-                "city": "Zhytomyr",
-                "postal_code": "01488"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "email": "olena.petrova@d.com",
-        "full_name": "Olena Petrova",
-        "gender": "female",
-        "date_of_birth": "1982-03-09",
-        "addresses": []
-    },
-    {
-        "id": 3,
-        "email": "maksym.kovalchuk@example.com",
-        "full_name": "Maksym Kovalchuk",
-        "gender": "maksym",
-        "date_of_birth": "1991-07-22",
-        "addresses": [
-            {
-                "country": "Ukraine",
-                "city": "Odesa",
-                "postal_code": "65000"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "email": "ira.bondarenko@example.com",
-        "full_name": "Ira",
-        "gender": "female",
-        "date_of_birth": "1995-11-02",
-        "addresses": [
-            {
-                "country": "Ukraine",
-                "city": "Dnipro",
-                "postal_code": "49000"
-            },
-            {
-                "country": "Ukraine",
-                "city": "Zaporizhzhia",
-                "postal_code": "69000"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "email": "serhiy.sternenko@example.com",
-        "full_name": "Serhiy Sternenko",
-        "gender": "male",
-        "date_of_birth": "2087-01-18",
-        "addresses": [
-            {
-                "country": "Ukraine",
-                "city": "Kharkiv",
-                "postal_code": "61000"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "email": "kateryna.hnatyuk@example.com",
-        "full_name": "Kateryna Hnatyuk",
-        "gender": "female",
-        "date_of_birth": "1999-05-05",
-        "addresses": [
-            {
-                "country": "ukraine",
-                "city": "vinnytsia",
-                "postal_code": "21000"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "email": "taras.lukashenko@example.com",
-        "full_name": "Taras Lukashenko",
-        "gender": "male",
-        "date_of_birth": "1983-09-14",
-        "addresses": [
-            {
-                "country": "Ukraine",
-                "city": "Mykolaiv",
-                "postal_code": "54000"
-            },
-            {
-                "country": "Ukraine",
-                "city": "Kherson",
-                "postal_code": "73000"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "email": "oksana.kryvko@example.com",
-        "full_name": "Oksana Kryvko",
-        "gender": "female",
-        "date_of_birth": "1978-06-28",
-        "addresses": [
-            {
-                "country": "Ukraine",
-                "city": "Chernihiv",
-                "postal_code": "asdb"
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "email": "serhiy.marchenko@example.com",
-        "full_name": "Serhiy Marchenko",
-        "gender": "male",
-        "date_of_birth": "1993-02-16",
-        "addresses": [
-            {
-                "country": "Ukraine",
-                "city": "Poltava",
-                "postal_code": "36000"
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "email": "halyna.melnyk@example.com",
-        "full_name": "Halyna Melnyk",
-        "gender": "female",
-        "date_of_birth": "1985-12-24",
-        "addresses": [
-            {
-                "country": "Ukraine",
-                "city": "Ivano-Frankivsk",
-                "postal_code": "76000"
-            },
-            {
-                "country": "Ukraine",
-                "city": "Ternopil",
-                "postal_code": "46000"
-            }
-        ]
-    }
+  {
+    "id": 1,
+    "email": "valerabig4len@ukr.net",
+    "full_name": "Valera Zmyshenko",
+    "gender": "male",
+    "date_of_birth": "1975-08-15",
+    "addresses": [
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "postal_code": "01001"
+      },
+      {
+        "country": "Ukraine",
+        "city": "Zhytomyr",
+        "postal_code": "01488"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "email": "olena.petrova@d.com",
+    "full_name": "Olena Petrova",
+    "gender": "female",
+    "date_of_birth": "1982-03-09",
+    "addresses": []
+  },
+  {
+    "id": 3,
+    "email": "maksym.kovalchuk@example.com",
+    "full_name": "Maksym Kovalchuk",
+    "gender": "maksym",
+    "date_of_birth": "1991-07-22",
+    "addresses": [
+      {
+        "country": "Ukraine",
+        "city": "Odesa",
+        "postal_code": "65000"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "email": "ira.bondarenko@example.com",
+    "full_name": "Ira",
+    "gender": "female",
+    "date_of_birth": "1995-11-02",
+    "addresses": [
+      {
+        "country": "Ukraine",
+        "city": "Dnipro",
+        "postal_code": "49000"
+      },
+      {
+        "country": "Ukraine",
+        "city": "Zaporizhzhia",
+        "postal_code": "69000"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "email": "serhiy.sternenko@example.com",
+    "full_name": "Serhiy Sternenko",
+    "gender": "male",
+    "date_of_birth": "2087-01-18",
+    "addresses": [
+      {
+        "country": "Ukraine",
+        "city": "Kharkiv",
+        "postal_code": "61000"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "email": "kateryna.hnatyuk@example.com",
+    "full_name": "Kateryna Hnatyuk",
+    "gender": "female",
+    "date_of_birth": "1999-05-05",
+    "addresses": [
+      {
+        "country": "ukraine",
+        "city": "vinnytsia",
+        "postal_code": "21000"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "email": "taras.lukashenko@example.com",
+    "full_name": "Taras Lukashenko",
+    "gender": "male",
+    "date_of_birth": "1983-09-14",
+    "addresses": [
+      {
+        "country": "Ukraine",
+        "city": "Mykolaiv",
+        "postal_code": "54000"
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kherson",
+        "postal_code": "73000"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "email": "oksana.kryvko@example.com",
+    "full_name": "Oksana Kryvko",
+    "gender": "female",
+    "date_of_birth": "1978-06-28",
+    "addresses": [
+      {
+        "country": "Ukraine",
+        "city": "Chernihiv",
+        "postal_code": "asdb"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "email": "serhiy.marchenko@example.com",
+    "full_name": "Serhiy Marchenko",
+    "gender": "male",
+    "date_of_birth": "1993-02-16",
+    "addresses": [
+      {
+        "country": "Ukraine",
+        "city": "Poltava",
+        "postal_code": "36000"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "email": "halyna.melnyk@example.com",
+    "full_name": "Halyna Melnyk",
+    "gender": "female",
+    "date_of_birth": "1985-12-24",
+    "addresses": [
+      {
+        "country": "Ukraine",
+        "city": "Ivano-Frankivsk",
+        "postal_code": "76000"
+      },
+      {
+        "country": "Ukraine",
+        "city": "Ternopil",
+        "postal_code": "46000"
+      }
+    ]
+  }
 ]
-
