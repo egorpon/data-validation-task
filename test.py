@@ -48,6 +48,7 @@ class RecordLoaderTests(unittest.TestCase):
 
     def test_data_is_loaded(self):
         data = load_records(str(self.data_path))
+        print(data)
         self.assertEqual(len(data), 1)
         record = data[0]
         self.assertIsInstance(record, User)
